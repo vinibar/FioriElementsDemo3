@@ -108,6 +108,7 @@
                         </Record>
                         <Record Type="UI.ReferenceFacet">
                             <PropertyValue Property="Target" AnnotationPath="Products/@UI.LineItem"/>
+                            <PropertyValue Property="Label" String="{@i18n>products}"/>
                         </Record>
                     </Collection>
                 </Annotation>
